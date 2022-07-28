@@ -1,0 +1,7 @@
+scipy==1.7.3
+altair==4.2.0
+hvplot==0.7.3
+holoviews==1.14.8
+tqdm==4.64.0
+pandas==1.4.2
+numpy==1.21.5
